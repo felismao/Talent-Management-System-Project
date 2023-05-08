@@ -51,3 +51,15 @@ Other environment agnostic settings can be changed in `config/app.php`.
 The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+
+#Credentials:
+login: testing@email.com
+password: testing3048
+
+SCREENSHOTS
+![image](https://user-images.githubusercontent.com/81837957/236729403-4699f899-82d8-45e9-a588-5ffdb5f5c57b.png)
+![image](https://user-images.githubusercontent.com/81837957/236729479-053fefcc-4825-4f02-a24d-269c72044332.png)
+![image](https://user-images.githubusercontent.com/81837957/236729346-6f9b6e4c-f1c7-4df4-aae0-e622ef0036ee.png)
+![image](https://user-images.githubusercontent.com/81837957/236729674-40a0fef3-636b-4f49-8169-874c1dcefddd.png)
+![image](https://user-images.githubusercontent.com/81837957/236729801-8818e34d-1b74-418f-b46d-4295aeedf45a.png)
+
