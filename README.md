@@ -52,9 +52,6 @@ The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
 
-#Credentials:
-login: testing@email.com
-password: testing3048
 
 SCREENSHOTS
 ![image](https://user-images.githubusercontent.com/81837957/236729403-4699f899-82d8-45e9-a588-5ffdb5f5c57b.png)
