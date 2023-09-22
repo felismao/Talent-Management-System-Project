@@ -32,7 +32,8 @@ Read and edit the environment specific `config/app_local.php` and setup the
 Other environment agnostic settings can be changed in `config/app.php`.
 
 
-SCREENSHOTS
+## Screenshots
+
 ![image](https://user-images.githubusercontent.com/81837957/236729403-4699f899-82d8-45e9-a588-5ffdb5f5c57b.png)
 ![image](https://user-images.githubusercontent.com/81837957/236729479-053fefcc-4825-4f02-a24d-269c72044332.png)
 ![image](https://user-images.githubusercontent.com/81837957/236729346-6f9b6e4c-f1c7-4df4-aae0-e622ef0036ee.png)
